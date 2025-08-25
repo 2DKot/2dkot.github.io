@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dps66mge2lkhe"
-path="res://.godot/imported/elevator_sim.apple-touch-icon.png-d0dbbd5f785a2749ca8f45a00f173d68.ctex"
+uid="uid://c3rhk2mf74knj"
+path="res://.godot/imported/elevator_sim.apple-touch-icon.png-e156977fc6f13c8f96d4011f7ee7808b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://build/elevator_sim/elevator_sim.apple-touch-icon.png"
-dest_files=["res://.godot/imported/elevator_sim.apple-touch-icon.png-d0dbbd5f785a2749ca8f45a00f173d68.ctex"]
+source_file="res://build/elevator_sim.apple-touch-icon.png"
+dest_files=["res://.godot/imported/elevator_sim.apple-touch-icon.png-e156977fc6f13c8f96d4011f7ee7808b.ctex"]
 
 [params]
 
